@@ -1,4 +1,4 @@
-//  (actualWords / totalTimeTaken) * 60 logic//
+
 
 const typing_ground = document.querySelector('#textarea');
 const btn = document.querySelector('#btn');
